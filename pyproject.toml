@@ -1,6 +1,6 @@
 [project]
 name = "khal"
-dynamic = ["version"]
+version = "0.1.2"
 description = "Standards based terminal calendar"
 readme = "README.rst"
 authors = [
